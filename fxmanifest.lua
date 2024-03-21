@@ -2,7 +2,6 @@ fx_version "cerulean"
 
 games {"gta5"}
 lua54 'yes'
-author 'piotreq'
 description 'esx_ambulancejob'
 version '2.0'
 
